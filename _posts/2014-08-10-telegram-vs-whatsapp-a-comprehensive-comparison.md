@@ -109,7 +109,7 @@ Like I stated before, my free trial with WhatsApp is coming to an end. Will I re
 
 I have decided to go with go with Telegram because of their open [API](https://core.telegram.org/api) and [protocol](https://core.telegram.org/mtproto) and because they provide just as good of a service as WhatsApp for no cost what so ever. I am a software engineer who appreciates open software. The fact that they have made these resources available to others allows for quick maturity of the project and the possibility of the addition of even more devices in the future.
 
-I constantly switch devices and operating systems and this [Telegram Chrome app](https://chrome.google.com/webstore/detail/telegram-unofficial/clhhggbfdinjmjhajaheehoeibfljjno) has been invaluable to me during the days I have to work on several different computers in a day.
+I constantly switch devices and operating systems and this [Telegram Chrome app](https://chrome.google.com/webstore/detail/telegram-unofficial/clhhggbfdinjmjhajaheehoeibfljjno) has been invaluable to me in the days where I have to work on several computers.
 
 
 

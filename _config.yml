@@ -15,6 +15,5 @@ url: alexeinunez.com
 baseurl: /
 paginate: 5
 
-author:
-  name: "Alexei Núñez"
-  url: https://twitter.com/AlexeiNunez
+github: arnm
+twitter: AlexeiNunez
