@@ -18,7 +18,7 @@ Before getting into the specific features of each app we must first know if it's
 | Telegram     | &#x2713;    | &#x2713;   | &#x2713;          | &#x2717;       | &#x2717;      | &#x2717;    | &#x2713;        | &#x2713; | &#x2713;              |
 | WhatsApp     | &#x2713;    | &#x2713;   | &#x2713;          | &#x2713;       | &#x2713;      | &#x2713;    | &#x2717;        | &#x2717; | &#x2717;              |
 
-From this table we can see that each app supports 6 platforms each. Telegram not only focuses on mobile but also other platforms like the web and desktops while WhatsApp focuses only on mobile.
+From this table we can see that each app supports 6 platforms. Telegram not only focuses on mobile but also other platforms like the web and desktops while WhatsApp focuses only on mobile.
 
 In addition to platform support we also want to compare the pricing and number of users of each service.
 
@@ -58,7 +58,7 @@ Types of messages which can be sent:
 | Telegram | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2717; | &#x2713; |
 | WhatsApp | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2717; |
 
-The only differences here is that Telegram supports sending documents (doc, zip, mp3, etc) while WhatsApp cannot. WhatsApp allows you to share your contacts with others while Telegram cannot.
+The only differences here are that Telegram supports sending documents (doc, zip, mp3, etc) while WhatsApp cannot. WhatsApp allows you to share your contacts with others while Telegram cannot.
 
 ## Configuration and User Experience
 
