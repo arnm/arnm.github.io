@@ -14,17 +14,17 @@ WhatsApp trial service coming to an end in about a week I decided to compare bot
 
 Before getting into the specific features of each app we must first know if it's even supported on our platforms of choice and if the people we want to communicate with are able to also use the app.
 
-|                       | Telegram     | WhatsApp     |
-| :-------------------: | :----------: | :----------: |
-| Android               | &#x2713;     | &#x2713;     |
-| iPhone                | &#x2713;     | &#x2713;     |
-| Windows Phone         | &#x2713;     | &#x2713;     |
-| BlackBerry            | &#x2717;     | &#x2713;     |
-| Nokia S40             | &#x2717;     | &#x2713;     |
-| Symbian               | &#x2717;     | &#x2713;     |
-| iTouch/iPad           | &#x2713;     | &#x2717;     |
-| Web                   | &#x2713;     | &#x2717;     |
-| Windows/Mac/Linux     | &#x2713;     | &#x2717;     |
+|                   | Telegram | WhatsApp |
+| :-:               | :-:      | :-:      |
+| Android           | &#x2713; | &#x2713; |
+| iPhone            | &#x2713; | &#x2713; |
+| Windows Phone     | &#x2713; | &#x2713; |
+| BlackBerry        | &#x2717; | &#x2713; |
+| Nokia S40         | &#x2717; | &#x2713; |
+| Symbian           | &#x2717; | &#x2713; |
+| iTouch/iPad       | &#x2713; | &#x2717; |
+| Web               | &#x2713; | &#x2717; |
+| Windows/Mac/Linux | &#x2713; | &#x2717; |
 
 From this table we can see that each app supports 6 platforms. Telegram not only focuses on mobile but also other platforms like the web and desktops while WhatsApp focuses only on mobile.
 
