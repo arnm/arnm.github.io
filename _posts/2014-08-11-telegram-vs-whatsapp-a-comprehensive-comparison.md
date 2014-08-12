@@ -122,9 +122,11 @@ I can only assume that Telegram does not have these features because they want t
 
 Like I stated before, my free trial with WhatsApp is coming to an end. Will I renew my WhatsApp account or will I stick with Telegram? Both products provide an easy to use interface to communicate with others and both are made widely available with their multi-platform support.
 
-I have decided to go with go with Telegram because of their open [API](https://core.telegram.org/api) and [protocol](https://core.telegram.org/mtproto) and because they provide just as good of a service as WhatsApp for no cost what so ever. I am a software engineer who appreciates open software. The fact that they have made these resources available to others allows for quick maturity of the project and the possibility of the addition of even more devices in the future.
+I have decided to go with go with Telegram because of their open [API](https://core.telegram.org/api) and [protocol](https://core.telegram.org/mtproto) and because they provide just as good of a service as WhatsApp for no cost what so ever. I am a software engineer who appreciates open software. The fact that they have made these resources available to others allows for quick maturity of the project and the possibility of the addition of even more devices in the future. 
 
 I constantly switch devices and operating systems and this [Telegram Chrome app](https://chrome.google.com/webstore/detail/telegram-unofficial/clhhggbfdinjmjhajaheehoeibfljjno) has been invaluable to me in the days where I have to work on several computers.
+
+Unfortunately, most people do not see the tremendous upside Telegram has as a service. Any casual user will simple look at how many reviews or how many downloads an application has and base their decision on that. Although this is a legitimate way to make a decision, no one wants to use and app nobody else is using, I feel like it is not the mentality necessary to push innovation. Granted, an everyday user is not worried about that sort of thing, they mainly just care about what the current hot, easy to use app is.
 
 
 
