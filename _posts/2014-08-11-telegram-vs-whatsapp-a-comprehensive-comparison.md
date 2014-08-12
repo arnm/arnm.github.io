@@ -29,10 +29,12 @@ From this table we can see that each app supports 6 platforms. Telegram not only
 
 In addition to platform support we also want to compare the pricing and number of users of each service.
 
-|          | Users (Android Only) | Pricing | Subscription | Ads      |
-| :-:      | :-:                  | :-:     | :-:          | :-:      |
-| Telegram | 10 million           | Free    | &#x2717;     | &#x2717; |
-| WhatsApp | 500 million          | $1.00   | &#x2713;     | &#x2717; |
+|                      | Telegram   | WhatsApp    |
+| :-:                  | :-:        | :-:         |
+| Users (Android Only) | 10 million | 500 million |
+| Pricing              | Free       | $1.00 USD   |
+| Subscription         | &#x2717;   | &#x2713;    |
+| Ads                  | &#x2717;   | &#x2717;    |
 
 Telegram is a completely free service while WhatsApp is based on a yearly subscription program. WhatsApp does have other payment options which allow users to pay a discounted price for a 3 or 5 year service expansion. Even though Telegram is completely free and provides a competitive service it does not have nearly as many users as WhatsApp. The large difference in active users may be due to the following:
 
@@ -43,7 +45,7 @@ Telegram is a completely free service while WhatsApp is based on a yearly subscr
 
 ## Messaging
 
-There first thing one would expect from a messaging app is the ability to send
+The first thing one would expect from a messaging app is the ability to send
 unlimited messages to individuals and groups in a quick and easy manner. Here is a list of the categories used for this feature comparison:
 
 - **Create a chat**: Send messages to another user.
@@ -51,19 +53,25 @@ unlimited messages to individuals and groups in a quick and easy manner. Here is
 - **Create a group chat**: Join or create a group chat to communicate with several users at a time.
 - **Create a broadcast list**: Start separate chats with several users at once with a broadcast message.
 
-|              | Chat         | Secret Chat     | Group Chat     | Broadcast List     |
-| :----------: | :----------: | :-------------: | :------------: | :----------------: |
-| Telegram     | &#x2713;     | &#x2713;        | &#x2713;       | &#x2713;           |
-| WhatsApp     | &#x2713;     | &#x2717;        | &#x2713;       | &#x2713;           |
+|                | Telegram | WhatsApp |
+| :-:            | :-:      | :-:      |
+| Chat           | &#x2713; | &#x2713; |
+| Secret Chat    | &#x2713; | &#x2717; |
+| Group Chat     | &#x2713; | &#x2713; |
+| Broadcast List | &#x2713; | &#x2713; |
 
 While WhatsApp does not support "secret messages" their [messages are never stored on servers](http://www.whatsapp.com/faq/general/21197296) like [Telegrams "non secret messages" are](https://www.telegram.org/faq#q-why-not-just-make-all-chats-secret). There are advantages and disadvantages to both approaches. Not storing messages on servers provides a slightly higher feeling of security because no one will be able to hack into the servers, decrypt, and then read all of your stored messages. However, not storing the messages also does not allow for messages to be synced across your other devices like Telegram does.
 
 Types of messages which can be sent:
 
-|          | Photo    | Video    | Audio    | Location | Contact  | Document |
-| :-:      | :-:      | :-:      | :-:      | :-:      | :-:      | :-:      |
-| Telegram | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2717; | &#x2713; |
-| WhatsApp | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2713; | &#x2717; |
+|          | Telegram | WhatsApp |
+| :-:      | :-:      | :-:      |
+| Photo    | &#x2713; | &#x2713; |
+| Video    | &#x2713; | &#x2713; |
+| Audio    | &#x2713; | &#x2713; |
+| Location | &#x2713; | &#x2713; |
+| Contact  | &#x2717; | &#x2713; |
+| Document | &#x2713; | &#x2717; |
 
 The only differences here are that Telegram supports sending documents (doc, zip, mp3, etc) while WhatsApp cannot. WhatsApp allows you to share your contacts with others while Telegram cannot.
 
@@ -108,7 +116,7 @@ We can see a couple of big differences between both apps here:
     + Telegram requires you to deactivate your old account and [create a new one for the new number ](https://telegram.org/faq#q-what-happens-if-i-change-my-phone-number)
 - WhatsApp allows you to email conversations while Telegram does not
 
-I can only assume that Telegram does not have these features because they wants to ensure, as much as possible, the account is in the rightful hands of the owner and that their privacy is being respected.
+I can only assume that Telegram does not have these features because they want to ensure, as much as possible, the account is in the rightful hands of the owner and that their privacy is being respected.
 
 ## Conclusion
 
