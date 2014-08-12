@@ -126,7 +126,7 @@ I have decided to go with go with Telegram because of their open [API](https://c
 
 I constantly switch devices and operating systems and this [Telegram Chrome app](https://chrome.google.com/webstore/detail/telegram-unofficial/clhhggbfdinjmjhajaheehoeibfljjno) has been invaluable to me in the days where I have to work on several computers.
 
-Unfortunately, most people do not see the tremendous upside Telegram has as a service. Any casual user will simple look at how many reviews or how many downloads an application has and base their decision on that. Although this is a legitimate way to make a decision, no one wants to use and app nobody else is using, I feel like it is not the mentality necessary to push innovation. Granted, an everyday user is not worried about that sort of thing, they mainly just care about what the current hot, easy to use app is.
+Unfortunately, most people do not see the tremendous upside Telegram has as a service. Any casual user will simply look at how many reviews or how many downloads an application has and base their decision on that. Although this is a legitimate way to make a decision, no one wants to use and app nobody else is using, I feel like it is not the mentality necessary to push innovation. Granted, an everyday user is not worried about that sort of thing, they mainly just care about what the current hot, easy to use app is.
 
 
 
