@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Telegram vs WhatsApp: A Comprehensive Messenger Comparison"
 published: True
 categories: []
