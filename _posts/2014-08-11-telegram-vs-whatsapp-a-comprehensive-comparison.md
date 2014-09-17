@@ -71,10 +71,10 @@ Types of messages which can be sent:
 | Video    | &#x2713; | &#x2713; |
 | Audio    | &#x2713; | &#x2713; |
 | Location | &#x2713; | &#x2713; |
-| Contact  | &#x2717; | &#x2713; |
+| Contact  | &#x2713; | &#x2713; |
 | Document | &#x2713; | &#x2717; |
 
-The only differences here are that Telegram supports sending documents (doc, zip, mp3, etc) while WhatsApp cannot. WhatsApp allows you to share your contacts with others while Telegram cannot.
+The only difference here is that Telegram supports sending documents (doc, zip, mp3, etc) while WhatsApp cannot.
 
 ## Configuration and User Experience
 
