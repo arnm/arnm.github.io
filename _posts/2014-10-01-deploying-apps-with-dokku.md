@@ -149,7 +149,7 @@ your server's public IP address.
 ```
 
 If you want the URI of your app to look like that, specifying a ```VHOST``` file
-will give provide a subdomain with the name of your app. The ```VHOST``` file
+will provide a subdomain with the name of your app. The ```VHOST``` file
 should contain the same thing your ```HOSTNAME``` file contains. **This will only
 work with a domain name, it will not work with only an IP address**.
 
@@ -194,10 +194,16 @@ Add the remote location to dokku:
 $ git remote add dokku dokku@<server-public-ip>:node-js-sample
 ```
 
-Push the application:
+Push the local master branch to Dokku:
 
 ```
 $ git push dokku master
+```
+
+You can also push any local brach to Dokku:
+
+```
+$ git push dokku <local-branch>:master
 ```
 
 Once it is done pushing and building you should see where your application was
